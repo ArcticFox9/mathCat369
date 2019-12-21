@@ -1,4 +1,4 @@
-#Collatz conjecture by julia
+#Collatz conjecture by Julia forked from fast_feline
 import os
 
 os.system('clear')
